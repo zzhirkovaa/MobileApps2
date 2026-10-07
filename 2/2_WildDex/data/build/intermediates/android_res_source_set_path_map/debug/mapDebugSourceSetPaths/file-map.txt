@@ -1,0 +1,9 @@
+ru.mirea.zhirkova.wilddex.data-pngs-0 /Users/ekaterina/Учеба/MobileApps/MobileApps2/2/2_WildDex/data/build/generated/res/pngs/debug
+ru.mirea.zhirkova.wilddex.data-updated_navigation_xml-1 /Users/ekaterina/Учеба/MobileApps/MobileApps2/2/2_WildDex/data/build/generated/updated_navigation_xml/debug
+ru.mirea.zhirkova.wilddex.data-mergeDebugResources-2 /Users/ekaterina/Учеба/MobileApps/MobileApps2/2/2_WildDex/data/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+ru.mirea.zhirkova.wilddex.data-mergeDebugResources-3 /Users/ekaterina/Учеба/MobileApps/MobileApps2/2/2_WildDex/data/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+ru.mirea.zhirkova.wilddex.data-debug-4 /Users/ekaterina/Учеба/MobileApps/MobileApps2/2/2_WildDex/data/build/intermediates/merged_res/debug/mergeDebugResources
+ru.mirea.zhirkova.wilddex.data-debug-5 /Users/ekaterina/Учеба/MobileApps/MobileApps2/2/2_WildDex/data/build/intermediates/packaged_res/debug/packageDebugResources
+ru.mirea.zhirkova.wilddex.data-debug-6 /Users/ekaterina/Учеба/MobileApps/MobileApps2/2/2_WildDex/data/src/debug/res
+ru.mirea.zhirkova.wilddex.data-main-7 /Users/ekaterina/Учеба/MobileApps/MobileApps2/2/2_WildDex/data/src/main/res
+gradleHome-0 /Users/ekaterina/.gradle

@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ekaterina/Учеба/MobileApps/MobileApps2/2/2_MovieProject/data/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10993832367317952553.xml:2:13-83
+INJECTED from /Users/ekaterina/Учеба/MobileApps/MobileApps2/2/2_MovieProject/data/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10993832367317952553.xml:2:13-83
+	package
+		INJECTED from /Users/ekaterina/Учеба/MobileApps/MobileApps2/2/2_MovieProject/data/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10993832367317952553.xml
+	xmlns:android
+		ADDED from /Users/ekaterina/Учеба/MobileApps/MobileApps2/2/2_MovieProject/data/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10993832367317952553.xml:2:23-81
+uses-sdk
+INJECTED from /Users/ekaterina/Учеба/MobileApps/MobileApps2/2/2_MovieProject/data/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10993832367317952553.xml reason: use-sdk injection requested
+INJECTED from /Users/ekaterina/Учеба/MobileApps/MobileApps2/2/2_MovieProject/data/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10993832367317952553.xml
+INJECTED from /Users/ekaterina/Учеба/MobileApps/MobileApps2/2/2_MovieProject/data/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10993832367317952553.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ekaterina/Учеба/MobileApps/MobileApps2/2/2_MovieProject/data/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10993832367317952553.xml
+	android:minSdkVersion
+		INJECTED from /Users/ekaterina/Учеба/MobileApps/MobileApps2/2/2_MovieProject/data/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10993832367317952553.xml

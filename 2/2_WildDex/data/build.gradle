@@ -1,0 +1,28 @@
+plugins {
+    alias(libs.plugins.android.library)
+
+}
+
+android {
+    namespace 'ru.mirea.zhirkova.wilddex.data'
+    compileSdk {
+        version = release(37)
+    }
+
+    defaultConfig {
+        minSdk 26
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
+    }
+}
+
+dependencies {
+    implementation project(':domain')
+    implementation(platform("com.google.firebase:firebase-bom:34.19.0"))
+    implementation("com.google.firebase:firebase-auth")
+    implementation "androidx.room:room-runtime:2.7.2"
+    annotationProcessor "androidx.room:room-compiler:2.7.2"
+}

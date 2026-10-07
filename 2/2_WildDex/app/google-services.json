@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199395299729",
+    "project_id": "wilddex-cb7f5",
+    "storage_bucket": "wilddex-cb7f5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199395299729:android:0ffba4fb51898c3de10a30",
+        "android_client_info": {
+          "package_name": "ru.mirea.zhirkova.wilddex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkexQIX8H59fU8FlkxwJ5YL5-crAN85gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
